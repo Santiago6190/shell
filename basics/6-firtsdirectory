@@ -1,2 +1,2 @@
 #!/bin/bash
-mv my_firts_directory /tmp/
+mkdir /tmp/my_firts_directory

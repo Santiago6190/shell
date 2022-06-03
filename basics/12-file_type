@@ -1,2 +1,3 @@
 #!/bin/bash
-lrp /tmp/iamafile
+type iamfile /tmp
+

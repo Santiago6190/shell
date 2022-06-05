@@ -1,2 +1,2 @@
 #!/bin/bash
-cd to/the/dir
+cp -nu *.html ..

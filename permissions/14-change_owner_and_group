@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --refenrence [vincent] [staff]
+chown0 --from vincen  staff

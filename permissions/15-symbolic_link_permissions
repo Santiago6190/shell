@@ -1,1 +1,2 @@
 #!/bin/bash
+chown --dereference _hello vincent:staff
